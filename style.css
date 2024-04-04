@@ -15,7 +15,6 @@
     margin: 0 20px;
     padding: 10px 0;
     font-size: 24px;
-<<<<<<< HEAD
 } 
 
 .imagem-escola{
@@ -25,8 +24,7 @@
 .escola{
     background-image: linear-gradient(blue,blue);
 }
-=======
-}  
+
 
 .imagem-escola{
     width: 25%;
@@ -34,6 +32,13 @@
 }
 
 .escola{
-    background-image: linear-gradient(blue);
+    background-image: (blue);
+    color:aliceblue;
+    display: flex;
+    justify-content: center;
 }
->>>>>>> 8b17da4c71cc01e9660eb16f1ca29f8b1c4d69b4
+
+
+.texto-escola{
+    font-size: 20px;
+}
