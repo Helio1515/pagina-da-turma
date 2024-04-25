@@ -42,3 +42,17 @@
 .texto-escola{
     font-size: 20px;
 }
+.titulo-escola{
+    font: size 40px;
+}
+.estudante{
+    background-image: linear-gradient(rgb(206, 20, 20), rgb(122, 30, 30));
+}
+
+.estudante-image {
+    width: 120px;
+}
+
+.estudante-icone{
+    width: 20px;
+}
